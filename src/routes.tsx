@@ -3,12 +3,12 @@ import './assets/styles/normalize.scss'
 import './assets/styles/reset.scss'
 import './assets/styles/typography.scss'
 
-const Routes = () => {
+const AppRoutes = () => {
 
   return (
-    <>
-    </>
+    <main>
+    </main>
   )
 }
 
-export default Routes
+export default AppRoutes
